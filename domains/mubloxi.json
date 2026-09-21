@@ -4,5 +4,6 @@
   },
   "records": {
     "CNAME": "portfolio.theblackholebay.lol"
-  }
+  },
+  "proxied": true
 }
